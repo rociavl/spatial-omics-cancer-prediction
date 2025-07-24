@@ -234,12 +234,6 @@ spatial-omics-treatment-prediction/
 **Background:** Biomedical Engineering + Tissue Engineering + Medical Imaging  
 **Expertise:** Spatial omics, machine learning, biomedical data analysis  
 
-### Related Work
-- **Medical Image Analysis:** 3D spatial analysis and computational methods
-- **SEEG Electrode Segmentation:** Advanced medical imaging and AI systems
-- **Computational Biology:** Interdisciplinary approach bridging engineering and biology
-- **Spatial Data Analysis:** Multi-modal integration of molecular and spatial information
-
 ## 📞 Contact
 
 - **Email:** rocio.avalos029@gmail.com
